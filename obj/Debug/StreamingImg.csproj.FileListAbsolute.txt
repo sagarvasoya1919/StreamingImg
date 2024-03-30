@@ -1,0 +1,11 @@
+D:\StreamingImg\bin\Debug\StreamingImg.exe.config
+D:\StreamingImg\bin\Debug\StreamingImg.exe
+D:\StreamingImg\bin\Debug\StreamingImg.pdb
+D:\StreamingImg\obj\Debug\StreamingImg.csproj.AssemblyReference.cache
+D:\StreamingImg\obj\Debug\StreamingImg.csproj.SuggestedBindingRedirects.cache
+D:\StreamingImg\obj\Debug\StreamingImg.Form1.resources
+D:\StreamingImg\obj\Debug\StreamingImg.Properties.Resources.resources
+D:\StreamingImg\obj\Debug\StreamingImg.csproj.GenerateResource.cache
+D:\StreamingImg\obj\Debug\StreamingImg.csproj.CoreCompileInputs.cache
+D:\StreamingImg\obj\Debug\StreamingImg.exe
+D:\StreamingImg\obj\Debug\StreamingImg.pdb
